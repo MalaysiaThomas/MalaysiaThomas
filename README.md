@@ -2,11 +2,13 @@
 
 ![Hi, I'm Malaysia! 👋🏾](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
+ **<h3 align="center">Full-Stack Web Development Student || Navy Veteran || Exploring AI Automation + Software Development</h3>**
 
-**<h3 align="center">Connect with me:</h3>** 
+
+**<h4 align="center">Connect with me:</h4>** 
 <p align="center"><a href="https://github.com/MalaysiaThomas" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="malaysiathomas16@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
- **<h4 align="center">Full-Stack Web Development Student || Navy Veteran || Exploring AI Automation + Software Development</h4>**
+
 
 **<h3 align="left">Rapid Fire</h3>**
 
