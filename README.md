@@ -4,7 +4,7 @@
 
  **<h3 align="center">Full-Stack Web Development Student || Exploring AI Automation + Software Development</h3>**
 
- <p align="center"><a href="https://github.com/MalaysiaThomas" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="malaysiathomas16@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+ <p align="center"><a href="https://github.com/MalaysiaThomas" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="mailto:malaysiathomas16@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
 ***
 **<h3 align="left">About Me</h3>**
