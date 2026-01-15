@@ -21,10 +21,14 @@
  **<h3 align="left">GitHub Stats</h3>**
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=MalaysiaThomas&v=1" alt="GitHub Streak" />
+  <a href="https://github.com/Jurredr/github-widgetbox">
+    <img
+      src="https://github-widgetbox.vercel.app/api/profile?username=MalaysiaThomas&data=followers,repositories,stars,commits"
+      alt="GitHub WidgetBox"
+    />
   </a>
 </p>
+
 
 
 <!-- <p align="left">
