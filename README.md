@@ -23,14 +23,8 @@
 <p align="center">
   <a href="https://github.com/Jurredr/github-widgetbox">
     <img
-      src="https://github-widgetbox.vercel.app/api/profile?username=MalaysiaThomas&data=followers,repositories,stars,commits"
+      src="https://github-widgetbox.vercel.app/api/profile?username=MalaysiaThomas&data=followers,repositories,stars,commits&theme=nautilus"
       alt="GitHub WidgetBox"
     />
   </a>
 </p>
-
-
-
-<!-- <p align="left">
-  <img width="48%" src="https://streak-stats.demolab.com/?user=MalaysiaThomas&theme=default&hide_border=false&border_radius=4.5&date_format=M+j%5B%2C+Y%5D&mode=daily&disable_animations=false&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&exclude_days=&locale=en&card_height=200" alt="GitHub streak Card" />
-</p> -->
