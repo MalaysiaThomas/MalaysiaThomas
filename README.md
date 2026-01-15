@@ -13,6 +13,7 @@
 - 🌱 I'm currently learning: **📚 React patterns • Accessibility • Design systems**
 - 💬 Ask me about: **💡 Balancing coding bootcamp + university studies**
 - ⚡ Fun fact: **🇯🇵 I started my coding journey while living in Japan**
+- 🔗 [Join Me On CodePen](https://codepen.io/MalaysiaThomas)
 
  **<h3 align="left">Skills</h3>**
 
